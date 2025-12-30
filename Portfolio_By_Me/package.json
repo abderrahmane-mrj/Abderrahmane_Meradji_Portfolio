@@ -1,0 +1,23 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A modern, responsive portfolio website",
+    "main": "index.html",
+    "scripts": {
+        "start": "npx http-server -p 8000 -o",
+        "dev": "npx http-server -p 8000 -o",
+        "serve": "npx http-server -p 8000"
+    },
+    "keywords": [
+        "portfolio",
+        "website",
+        "responsive",
+        "html",
+        "css",
+        "javascript"
+    ],
+    "author": "Abderrahmane Meradji",
+    "license": "MIT",
+    "devDependencies": {},
+    "dependencies": {}
+}
